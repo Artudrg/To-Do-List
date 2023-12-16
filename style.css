@@ -121,4 +121,7 @@ body {
     text-decoration: line-through; 
     opacity: 0.6; 
 }
-  
+
+li.task{
+  font-weight: bold;
+}
